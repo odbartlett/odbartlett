@@ -21,4 +21,3 @@ Computer Science student at **Johns Hopkins University (Class of 2027)**. Passio
 📫 Connect with Me
 - 🌍 [owenbartlett.com](http://owenbartlett.com)
 - 📧 [odbartlett1@gmail.com](mailto:odbartlett1@gmail.com)
-- 🏗 [GitHub](https://github.com/OwenBartlett)
