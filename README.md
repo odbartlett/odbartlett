@@ -12,7 +12,8 @@ Computer Science student at **Johns Hopkins University (Class of 2027)**. Passio
 💻 Experience
 - **Project Lead @ JHU Barman Robotics** - Developing software for swarm drones, leading a team.
 - **Research Assistant @ JHU Delineo** - Handling large datasets, integrating software.
-- **Software Dev Intern @ Online Draft** - Full-stack engineering, AWS backend, API development.
+- **Full-Stack Dev @ Online Draft** - Full-stack engineering, AWS backend, API development.
+- **Software Engineering Intern @ Karich and Associates** - Full-stack, AWS backend, AI agent integration
 
 🎯 Activities
 - **Project Leader @ JHU Brain-Computer Interface Society** - ML modeling, hardware projects.
